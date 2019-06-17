@@ -1,0 +1,17 @@
+{
+  "name": "remed_backend_rimu",
+  "version": "1.0.0",
+  "description": "UJIAN REMEDIAL BACKEND JCO8 RIMU",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "RIMU",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
